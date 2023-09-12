@@ -1,5 +1,5 @@
 const urls = {
-    "IP Abuse": ["https://www.virustotal.com/gui/search/", "https://www.abuseipdb.com/check/", "https://viz.greynoise.io/ip/", "https://exchange.xforce.ibmcloud.com/ip/", "https://www.talosintelligence.com/reputation_center/lookup?search=", "https://www.shodan.io/host/", "https://www.projecthoneypot.org/ip_", "https://feodotracker.abuse.ch/browse/host/"],
+    "IP Abuse": ["https://www.virustotal.com/gui/search/", "https://www.abuseipdb.com/check/", "https://viz.greynoise.io/ip/", "https://exchange.xforce.ibmcloud.com/ip/", "https://www.talosintelligence.com/reputation_center/lookup?search=", "https://www.shodan.io/host/", "https://www.projecthoneypot.org/ip_", "https://threatbook.io/ip/", "https://search.censys.io/hosts/"],
     "IP Info": ["https://www.whois.com/whois/", "https://whois.domaintools.com/"],
     "Hash Rep": ["https://www.virustotal.com/gui/search/", "https://exchange.xforce.ibmcloud.com/malware/", "https://www.talosintelligence.com/talos_file_reputation?s=", "https://bazaar.abuse.ch/browse.php?search=sha256:"],
     "Domain Rep": ["https://otx.alienvault.com/indicator/domain/", "https://www.virustotal.com/gui/search/", "https://www.barracudacentral.org/lookups/lookup-reputation?lookup_entry=", "https://urlhaus.abuse.ch/browse.php?search="],
@@ -15,7 +15,7 @@ const urls = {
     "UA Info": ["https://user-agents.net/string/"],
     "Error Info": ["https://login.microsoftonline.com/error?code="],
     "Event Info": ["https://www.ultimatewindowssecurity.com/securitylog/encyclopedia/event.aspx?eventid="],
-    "VPN Info": ["https://iphub.info/?ip=", "https://www.ip2location.com/demo/", "https://db-ip.com/", "https://metrics.torproject.org/rs.html#search/"],
+    "VPN Info": ["https://iphub.info/?ip=", "https://www.ip2location.com/demo/", "https://db-ip.com/", "https://spur.us/app/context?q=", "https://metrics.torproject.org/rs.html#search/"],
     "Email Info": ["https://exchange.xforce.ibmcloud.com/url/", "https://mxtoolbox.com/SuperTool.aspx?run=toolpage&action=blacklist:"]
 };
 
