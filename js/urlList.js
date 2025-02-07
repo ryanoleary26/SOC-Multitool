@@ -3,6 +3,8 @@ const urls = {
     "IP Info": ["https://www.whois.com/whois/", "https://whois.domaintools.com/"],
     "Hash Rep": ["https://www.virustotal.com/gui/search/", "https://exchange.xforce.ibmcloud.com/malware/", "https://www.talosintelligence.com/talos_file_reputation?s=", "https://bazaar.abuse.ch/browse.php?search=sha256:"],
     "Domain Rep": ["https://otx.alienvault.com/indicator/domain/", "https://www.virustotal.com/gui/search/", "https://www.barracudacentral.org/lookups/lookup-reputation?lookup_entry=", "https://urlhaus.abuse.ch/browse.php?search="],
+    "IOC Check": ["https://feodotracker.abuse.ch/browse/host/","https://threatfox.abuse.ch/browse.php?search=ioc%3A"],
+    "Similar Domain": ["https://haveibeensquatted.com/lookup/"],
     "Crypto Info": ["https://www.blockchain.com/explorer/search?search="],
     "LOLBin Lookup": ["https://lolbas-project.github.io/#"],
     "CC_Magic": ["https://cyberchef.org/#recipe=Magic(3,false,false,'')&input="],

@@ -38,6 +38,18 @@ const menuItems = [
         contexts: ['selection']
     },
     {
+        parentId: "Info",
+        id: "Similar Domain",
+        title: "Similar Domains",
+        contexts: ['selection']
+    },
+    {
+        parentId: "Abuse",
+        id: "IOC Check",
+        title: "IOC Check",
+        contexts: ['selection']
+    },
+    {
         parentId: "Abuse",
         id: "Hash Rep",
         title: "Hash Reputation (SHA256)",

@@ -8,6 +8,7 @@ Introducing Ryan's SOC Multi-tool, a browser extension intended to make OSINT in
 - Domain reputation checks with AlienVault, VirusTotal, Barracuda Central, and Abuse CH URLHaus.
 - VPN OSINT detection with IPHub, ip2proxy, Spur.us, and TorProject.
 - Email reputation with MXToolbox and IBM XFORCE Exchange.
+- Search for similar domains to identify typosquatting.
 
 ## Standard Features
 - Living off the land binaries Lookup using the LOLBas project
